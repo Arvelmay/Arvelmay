@@ -1,5 +1,8 @@
-## Hi there 👋
+## Internally screaming when debugging code
 
+Some of my skills, I'm not completely proficient though:
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,cs)](https://skillicons.dev)
 <!--
 **Arvelmay/Arvelmay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
