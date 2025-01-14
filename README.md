@@ -7,7 +7,7 @@ Rain World fanatic
 
 Some of my skills, I'm not completely proficient though:
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs)](https://skillicons.dev)
 
 I know how to use these a little:
 
